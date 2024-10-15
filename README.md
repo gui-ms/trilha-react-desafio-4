@@ -1,3 +1,8 @@
+# Screenshot do desafio:
+
+![image](https://github.com/user-attachments/assets/86de0547-a3fd-4eb9-94a8-7fc90100dbc9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
